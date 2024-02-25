@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 sfsdfsdasdasfasfsdfdasdassdas
 ffgdfgdf
 sdfsdf
+=======
+sfsdfsdasdasfasfsdfdasdassdas asdasdad  asdadas 
+>>>>>>> sub-branch
